@@ -138,6 +138,10 @@ p a, .text-link a {
   margin-left: 30px;
 }
 
+.page_body ul.schedule-overview {
+  list-style-type: none;
+}
+
 .page_header .overlay-nav {
   background: #000;
 }
@@ -153,4 +157,9 @@ p a, .text-link a {
 
 .page_header .nav-dropdown a {
   color: #fff;
+}
+
+/* Ideas */
+.idea img {
+  margin-bottom: 20px;
 }
